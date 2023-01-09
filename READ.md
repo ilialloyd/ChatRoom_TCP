@@ -1,6 +1,6 @@
 This is Local Chat Room App
 You can connect as many client as you can.
-Everyone nned to download progtram and run the server first.
+Everyone need to download program and run the server first.
 If only one person run server it will be enought
 
 you can talk with command line , 
